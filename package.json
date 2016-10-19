@@ -1,0 +1,16 @@
+{
+  "name": "api-ps-players",
+  "version": "1.0.0",
+  "description": "REST api for ps players",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sniffer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+  }
+}
